@@ -1,8 +1,13 @@
 // app/layout.js
 import Link from 'next/link';
+import React, { ReactNode } from 'react';
 import './globals.css';
 
-export default function Layout({ children }) {
+interface LayoutProps {
+  children: ReactNode;
+}
+
+export default function Layout({ children }: LayoutProps) {
   return (
     <html lang="en">
       <body>
