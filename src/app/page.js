@@ -1,0 +1,26 @@
+// app/page.js
+
+export default function Home() {
+    return (
+        <div className="text-center">
+            <h1 className="text-4x1 font-bold mb-4"> Welcome to My Personal Website</h1>
+            <p className="mb-6">
+                Hi, I'm Aman Jindal, a passionate software engineer. Explore my portfolio, read my blog, or get in touch.
+            </p>
+            <div className="space-x-4">
+                <a
+                    href="/projects"
+                    className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+                >
+                    Projects
+                </a>
+                <a
+                    href="/blog"
+                    className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600"
+                >
+                    Blog
+                </a>
+            </div>
+        </div>
+    );
+}
