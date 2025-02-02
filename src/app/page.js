@@ -1,4 +1,5 @@
 // app/page.js
+import Link from "next/link";
 
 export default function Home() {
     return (
@@ -8,18 +9,18 @@ export default function Home() {
                 Hi, I&apos;m Aman Jindal, a passionate software engineer. Explore my portfolio, read my blog, or get in touch.
             </p>
             <div className="space-x-4">
-                <a
+                <Link
                     href="/projects"
                     className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
                 >
                     Projects
-                </a>
-                <a
+                </Link>
+                <Link
                     href="/blog"
                     className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600"
                 >
                     Blog
-                </a>
+                </Link>
             </div>
         </div>
     );
