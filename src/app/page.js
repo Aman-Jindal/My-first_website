@@ -5,7 +5,7 @@ export default function Home() {
         <div className="text-center">
             <h1 className="text-4x1 font-bold mb-4"> Welcome to My Personal Website</h1>
             <p className="mb-6">
-                Hi, I'm Aman Jindal, a passionate software engineer. Explore my portfolio, read my blog, or get in touch.
+                Hi, I&apos;m Aman Jindal, a passionate software engineer. Explore my portfolio, read my blog, or get in touch.
             </p>
             <div className="space-x-4">
                 <a
