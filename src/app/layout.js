@@ -1,7 +1,7 @@
 // app/layout.js
 import "./globals.css"; // Make sure Tailwind CSS is imported
 import MobileNav from "./components/MobileNav";
-import Link from "next/link";
+
 
 export const metadata = {
   title: "My Portfolio",
