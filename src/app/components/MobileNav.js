@@ -25,7 +25,7 @@ export default function MobileNav() {
                 className={`
                     ${isOpen ? "block" : "hidden"} 
                     absolute top-full left-0 w-full bg-gray-800 whitespace-nowrap
-                    md:static md:flex md:flex-row md:space-x-4 md:items-center md:ml-auto
+                    md:static md:flex md:flex-row md:space-x-4 md:items-center
                     `}
             >
                 <li>
