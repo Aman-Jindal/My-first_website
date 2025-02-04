@@ -5,9 +5,6 @@ import { useState } from "react";
 import Link from "next/link";
 
 export default function DesktopLayout({ children }) {
-    // State to control sidebar visibility
-    const [navOpen, setNavOpen] = useState(false);
-
     return (
         <div className="min-h-screen flex flex-col">
             {/* Header with logo and hamburger button */}
