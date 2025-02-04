@@ -1,7 +1,6 @@
 // src/components/MobileLayout.js
 "use client" // uses client-side state
 
-import { useState } from "react";
 import Link from "next/link";
 
 export default function DesktopLayout({ children }) {
