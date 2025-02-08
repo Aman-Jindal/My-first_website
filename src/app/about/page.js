@@ -8,7 +8,7 @@ export default function About() {
           style={{ backgroundImage: "url('/images/about-bg.jpg')" }}
         >
           {/* Overlay */}
-          <div className="absolute inset-0 bg-black opacity-50"></div>
+          <div className="absolute inset-0 bg-gradient-to-br from-black via-transparent to-black opacity-50"></div>
           <div className="relative z-10 flex flex-col items-center justify-center h-full text-white px-4">
             <h1 className="text-4xl md:text-5xl font-bold">About Me</h1>
             <p className="mt-4 text-lg md:text-xl text-center max-w-2xl">

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -5,6 +8,14 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+}
+
+
+
+:root {
+  --primary-color: #1a202c;
+  --secondary-color: #2d3748;
+  --accent-color: #38b2ac;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -17,11 +28,11 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 20px;
   text-align: center;
-  background-color: #f4f4f4;
+  background-color: #f7fafc;
 }
 
 nav {
