@@ -16,11 +16,11 @@ export default function About() {
                   Who I Am
                 </h2>
                 <p className="text-lg leading-relaxed text-gray-300">
-                Aman is a passionate software engineer and a dedicated fitness enthusiast. He’s on a mission to merge his love for technology with his dedication to physical fitness, creating impactful solutions that inspire others to push their limits—whether it's in the gym or through innovative software.
+                Aman is a passionate software engineer and a dedicated fitness enthusiast. He&apos;s on a mission to merge his love for technology with his dedication to physical fitness, creating impactful solutions that inspire others to push their limits—whether it's in the gym or through innovative software.
 
 With a deep belief in the power of discipline and hard work, Aman applies this mindset to his professional journey, coding apps that challenge the status quo and offer real value to users. His goal is to build tools that not only solve problems but also motivate and empower individuals to live their best lives.
 
-Outside of coding, Aman is often found in the gym, working on his physique and improving his strength. For him, fitness isn’t just about building muscle—it’s about fostering resilience and consistency, values that he carries with him in every aspect of his life.
+Outside of coding, Aman is often found in the gym, working on his physique and improving his strength. For him, fitness isn&apos;t just about building muscle—it&apos;s about fostering resilience and consistency, values that he carries with him in every aspect of his life.
 
 Through his work and content, Aman aims to share his journey and inspire others to take on challenges with grit and determination. Whether interested in technology, fitness, or motivation, he invites you to join him on his path to personal and professional growth.
                 </p>
@@ -47,17 +47,17 @@ Through his work and content, Aman aims to share his journey and inspire others 
                   My Journey
                 </h2>
                 <p className="text-lg leading-relaxed text-gray-300">
-                Aman's journey is a powerful blend of discipline, intellect, and relentless pursuit of growth. A graduate of IIT Delhi with a B.Tech degree, Aman’s academic journey was fueled by his deep passion for mathematics and an innate love for problem-solving. His fascination with numbers and logical thinking laid a strong foundation for his career, shaping his analytical mindset and sharpening his ability to tackle complex challenges.
+                Aman's journey is a powerful blend of discipline, intellect, and relentless pursuit of growth. A graduate of IIT Delhi with a B.Tech degree, Aman&apos;s academic journey was fueled by his deep passion for mathematics and an innate love for problem-solving. His fascination with numbers and logical thinking laid a strong foundation for his career, shaping his analytical mindset and sharpening his ability to tackle complex challenges.
 
 Driven by a desire to understand and contribute to society on a deeper level, Aman also ventured into the world of civil services, where he developed expertise in navigating the complexities of governance, policy, and strategic thinking. This phase of his life broadened his perspective, teaching him the value of discipline, resilience, and critical decision-making.
 
 However, Aman's true calling emerged at the intersection of his intellectual pursuits and personal passions. His love for software development allowed him to channel his problem-solving skills into building innovative web and mobile applications. Every line of code became a new challenge, a puzzle to be solved, and an opportunity to create something impactful.
 
-Parallel to his academic and professional growth, Aman’s journey in fitness has been equally transformative. What started as a personal goal to improve his physical strength evolved into a disciplined lifestyle rooted in mental toughness and self-mastery. For Aman, the gym isn’t just a place to build muscle—it’s where he tests his limits, cultivates resilience, and proves to himself that growth comes through consistent effort, both physically and mentally.
+Parallel to his academic and professional growth, Aman&apos;s journey in fitness has been equally transformative. What started as a personal goal to improve his physical strength evolved into a disciplined lifestyle rooted in mental toughness and self-mastery. For Aman, the gym isn&apos;t just a place to build muscle—it&apos;s where he tests his limits, cultivates resilience, and proves to himself that growth comes through consistent effort, both physically and mentally.
 
 His mission is to leverage his skills to create solutions that inspire, motivate, and empower others, whether through technology, personal development, or the mindset of relentless persistence.
 
-For Aman, the journey is far from over. It’s a continuous evolution driven by the belief that with discipline, hard work, and an unyielding commitment to growth, there are no limits to what one can achieve.
+For Aman, the journey is far from over. It&apos;s a continuous evolution driven by the belief that with discipline, hard work, and an unyielding commitment to growth, there are no limits to what one can achieve.
                 </p>
               </div>
   
@@ -71,7 +71,7 @@ For Aman, the journey is far from over. It’s a continuous evolution driven by 
 
 In addition to fitness, Aman is passionate about exploring the potential of AI and wearable technology to enhance personal development and performance tracking. His projects aim to bridge the gap between technology and self-improvement, helping individuals unlock their full potential both physically and mentally.
 
-Aman’s future vision is clear—to continue building solutions that inspire, educate, and empower others. Whether through innovative software, transformative fitness programs, or thought-provoking content, he is committed to creating tools that reflect his core values: discipline, persistence, and growth.
+Aman&apos;s future vision is clear—to continue building solutions that inspire, educate, and empower others. Whether through innovative software, transformative fitness programs, or thought-provoking content, he is committed to creating tools that reflect his core values: discipline, persistence, and growth.
 
 For Aman, the journey is ongoing. Every project, every challenge, and every goal is a step forward in his mission to make a difference—not just in his own life but in the lives of those he seeks to inspire.
                 </p>
