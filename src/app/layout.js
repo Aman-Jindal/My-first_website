@@ -4,7 +4,7 @@ import ResponsiveLayout from "../components/ResponsiveLayout";
 
 
 export const metadata = {
-  title: "My Portfolio",
+  title: "Aman Jindal",
   description: "Personal website and portfolio",
 };
 

@@ -46,7 +46,7 @@ export default function DesktopLayout({ children }) {
 
             {/* Footer */}
             <footer className="bg-gray-800 text-white text-center p-4">
-                 © {new Date().getFullYear()} My Portfolio. All rights reserved.
+                 © {new Date().getFullYear()} Aman Jindal. All rights reserved.
             </footer>           
         </div>
     );
