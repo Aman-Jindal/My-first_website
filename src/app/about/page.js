@@ -16,7 +16,7 @@ export default function About() {
                   Who I Am
                 </h2>
                 <p className="text-lg leading-relaxed text-gray-300">
-                Aman is a passionate software engineer and a dedicated fitness enthusiast. He&apos;s on a mission to merge his love for technology with his dedication to physical fitness, creating impactful solutions that inspire others to push their limits—whether it's in the gym or through innovative software.
+                Aman is a passionate software engineer and a dedicated fitness enthusiast. He&apos;s on a mission to merge his love for technology with his dedication to physical fitness, creating impactful solutions that inspire others to push their limits—whether it&apos;s in the gym or through innovative software.
 
 With a deep belief in the power of discipline and hard work, Aman applies this mindset to his professional journey, coding apps that challenge the status quo and offer real value to users. His goal is to build tools that not only solve problems but also motivate and empower individuals to live their best lives.
 
@@ -47,11 +47,11 @@ Through his work and content, Aman aims to share his journey and inspire others 
                   My Journey
                 </h2>
                 <p className="text-lg leading-relaxed text-gray-300">
-                Aman's journey is a powerful blend of discipline, intellect, and relentless pursuit of growth. A graduate of IIT Delhi with a B.Tech degree, Aman&apos;s academic journey was fueled by his deep passion for mathematics and an innate love for problem-solving. His fascination with numbers and logical thinking laid a strong foundation for his career, shaping his analytical mindset and sharpening his ability to tackle complex challenges.
+                Aman&apos;s journey is a powerful blend of discipline, intellect, and relentless pursuit of growth. A graduate of IIT Delhi with a B.Tech degree, Aman&apos;s academic journey was fueled by his deep passion for mathematics and an innate love for problem-solving. His fascination with numbers and logical thinking laid a strong foundation for his career, shaping his analytical mindset and sharpening his ability to tackle complex challenges.
 
 Driven by a desire to understand and contribute to society on a deeper level, Aman also ventured into the world of civil services, where he developed expertise in navigating the complexities of governance, policy, and strategic thinking. This phase of his life broadened his perspective, teaching him the value of discipline, resilience, and critical decision-making.
 
-However, Aman's true calling emerged at the intersection of his intellectual pursuits and personal passions. His love for software development allowed him to channel his problem-solving skills into building innovative web and mobile applications. Every line of code became a new challenge, a puzzle to be solved, and an opportunity to create something impactful.
+However, Aman&apos;s true calling emerged at the intersection of his intellectual pursuits and personal passions. His love for software development allowed him to channel his problem-solving skills into building innovative web and mobile applications. Every line of code became a new challenge, a puzzle to be solved, and an opportunity to create something impactful.
 
 Parallel to his academic and professional growth, Aman&apos;s journey in fitness has been equally transformative. What started as a personal goal to improve his physical strength evolved into a disciplined lifestyle rooted in mental toughness and self-mastery. For Aman, the gym isn&apos;t just a place to build muscle—it&apos;s where he tests his limits, cultivates resilience, and proves to himself that growth comes through consistent effort, both physically and mentally.
 
