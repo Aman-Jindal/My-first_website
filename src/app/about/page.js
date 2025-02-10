@@ -5,7 +5,7 @@ export default function About() {
         {/* Main Container */}
         <div className="container mx-auto px-4 py-20">
           {/* Content Card with Glassmorphism */}
-          <div className="max-w-4xl mx-auto bg-gray-800 bg-opacity-75 backdrop-blur-sm rounded-xl p-10 shadow-xl">
+          <div className="max-w-10xl mx-auto bg-gray-800 bg-opacity-75 backdrop-blur-sm rounded-xl p-10 shadow-xl">
             <h1 className="text-5xl md:text-6xl font-extrabold mb-10 tracking-tight text-white">
               About Me
             </h1>
@@ -15,7 +15,7 @@ export default function About() {
                 <h2 className="text-3xl font-bold mb-4 border-b-2 border-gray-600 pb-2 text-white hover:text-accent transition-colors duration-300">
                   Who I Am
                 </h2>
-                <p className="text-lg leading-relaxed text-gray-300">
+                <p className="text-xl leading-relaxed text-gray-300">
                 Aman is a passionate software engineer and a dedicated fitness enthusiast. He&apos;s on a mission to merge his love for technology with his dedication to physical fitness, creating impactful solutions that inspire others to push their limits—whether it&apos;s in the gym or through innovative software.
 
 With a deep belief in the power of discipline and hard work, Aman applies this mindset to his professional journey, coding apps that challenge the status quo and offer real value to users. His goal is to build tools that not only solve problems but also motivate and empower individuals to live their best lives.
@@ -31,14 +31,15 @@ Through his work and content, Aman aims to share his journey and inspire others 
                 <h2 className="text-3xl font-bold mb-4 border-b-2 border-gray-600 pb-2 text-white hover:text-accent transition-colors duration-300">
                   My Skills
                 </h2>
-                <p className="text-lg leading-relaxed text-gray-300">
+                <p className="text-xl leading-relaxed text-gray-300">
                 Aman is highly skilled in:
-                
-                    <li><strong>Software Development:</strong> Proficient in languages such as JavaScript, Python, and C++, with experience building web and mobile apps. He specializes in Next.js for web development and is focused on creating scalable, efficient solutions.</li>
-                    <li><strong>Web Development & UI/UX:</strong> With a keen eye for design, Aman is experienced in building clean, user-friendly interfaces and optimizing web applications for a seamless user experience.</li>
-                    <li><strong>App Development:</strong> Passionate about creating apps that offer practical value, Aman is experienced in both frontend and backend development, particularly in mobile and web environments.</li>
-                    <li><strong>Fitness Coaching & Health:</strong> Having gone through his own fitness transformation, Aman understands the value of discipline and is keen on sharing his journey and insights to help others on their fitness paths</li>
                 </p>
+                <ol className="text-xl leading-relaxed text-gray-300">
+                  <li><strong>Software Development:</strong> Proficient in languages such as JavaScript, Python, and C++, with experience building web and mobile apps. He specializes in Next.js for web development and is focused on creating scalable, efficient solutions.</li>
+                  <li><strong>Web Development & UI/UX:</strong> With a keen eye for design, Aman is experienced in building clean, user-friendly interfaces and optimizing web applications for a seamless user experience.</li>
+                  <li><strong>App Development:</strong> Passionate about creating apps that offer practical value, Aman is experienced in both frontend and backend development, particularly in mobile and web environments.</li>
+                  <li><strong>Fitness Coaching & Health:</strong> Having gone through his own fitness transformation, Aman understands the value of discipline and is keen on sharing his journey and insights to help others on their fitness paths</li>
+                </ol>
               </div>
   
               {/* My Journey Section */}
@@ -46,7 +47,7 @@ Through his work and content, Aman aims to share his journey and inspire others 
                 <h2 className="text-3xl font-bold mb-4 border-b-2 border-gray-600 pb-2 text-white hover:text-accent transition-colors duration-300">
                   My Journey
                 </h2>
-                <p className="text-lg leading-relaxed text-gray-300">
+                <p className="text-xl leading-relaxed text-gray-300">
                 Aman&apos;s journey is a powerful blend of discipline, intellect, and relentless pursuit of growth. A graduate of IIT Delhi with a B.Tech degree, Aman&apos;s academic journey was fueled by his deep passion for mathematics and an innate love for problem-solving. His fascination with numbers and logical thinking laid a strong foundation for his career, shaping his analytical mindset and sharpening his ability to tackle complex challenges.
 
 Driven by a desire to understand and contribute to society on a deeper level, Aman also ventured into the world of civil services, where he developed expertise in navigating the complexities of governance, policy, and strategic thinking. This phase of his life broadened his perspective, teaching him the value of discipline, resilience, and critical decision-making.
@@ -66,7 +67,7 @@ For Aman, the journey is far from over. It&apos;s a continuous evolution driven 
                 <h2 className="text-3xl font-bold mb-4 border-b-2 border-gray-600 pb-2 text-white hover:text-accent transition-colors duration-300">
                   Outside of Work
                 </h2>
-                <p className="text-lg leading-relaxed text-gray-300">
+                <p className="text-xl leading-relaxed text-gray-300">
                 Looking ahead, Aman is focused on merging his diverse experiences to create meaningful projects that make a lasting impact. His primary goal is to develop innovative fitness solutions through technology. As a passionate software engineer and fitness enthusiast, he is currently working on a fitness app designed to help people build discipline, track progress, and stay motivated. This app will integrate features like real-time coaching, data-driven insights, and virtual challenges to create an interactive and personalized fitness experience.
 
 In addition to fitness, Aman is passionate about exploring the potential of AI and wearable technology to enhance personal development and performance tracking. His projects aim to bridge the gap between technology and self-improvement, helping individuals unlock their full potential both physically and mentally.

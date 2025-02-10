@@ -8,13 +8,17 @@ export default function Home() {
       <section className="relative bg-gradient-to-br from-gray-900 to-black overflow-hidden">
         {/* Background Hero Image with Blending */}
         <div className="absolute inset-0">
-          <Image
-            src="/images/hero-blend.jpg" // Ensure this image exists in your public/images folder
+        <Image 
+            src="/images/hero-blend.jpg"
             alt="Hero Background"
-            fill
+            layout="responsive"
+            width={1920}
+            height={1080}
             className="object-cover mix-blend-overlay opacity-100"
-          />
+        />
         </div>
+
+
 
         {/* Hero Content */}
         <div className="relative z-10 container mx-auto px-4 py-32 flex flex-col items-center text-center">
